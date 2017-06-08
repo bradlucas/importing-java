@@ -6,8 +6,14 @@ Example code for "Importing Java Classes in Clojure" blog post.
 ## Usage
 
 ```
-lein uberjar
-java -jar uberjar/importing-java STR
+$ lein uberjar
+$ java -jar uberjar/importing-java.jar STR
+```
+
+Try
+
+```
+$ java -jar target/importing-java.jar "TEST\u002fTEST"
 ```
 
 ## License
