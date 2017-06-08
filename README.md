@@ -1,7 +1,14 @@
 # importing-java
 
-A Clojure library designed to ... well, that part is up to you.
+Example code for "Importing Java Classes in Clojure" blog post.
 
+
+## Usage
+
+```
+lein uberjar
+java -jar uberjar/importing-java STR
+```
 
 ## License
 
