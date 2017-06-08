@@ -5,4 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.apache.commons/commons-lang3 "3.5"]]
+  :profiles {:uberjar {:uberjar-name "importing-java.jar"}}
   :main importing-java.core)
