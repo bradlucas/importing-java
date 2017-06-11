@@ -2,6 +2,7 @@
 
 Example code for "Importing Java Classes in Clojure" blog post.
 
+[http://blog.bradlucas.com/posts/2017-06-07-importing-java-classes-in-clojure/](http://blog.bradlucas.com/posts/2017-06-07-importing-java-classes-in-clojure/)
 
 ## Usage
 
